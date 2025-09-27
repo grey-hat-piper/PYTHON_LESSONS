@@ -1,3 +1,4 @@
+#BASIC CALCULATOR APP
 first_num = float(input('Enter your first number:'))
 second_num = float(input('Enter second number:'))
 opp = input('Mathematical operation:')
